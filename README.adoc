@@ -1,0 +1,4 @@
+= Python-Env
+
+
+Personal repository for reusing a python setup with docker compose for programming with django/flask locally using postgresql

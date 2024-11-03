@@ -1,0 +1,6 @@
+#venv stuff
+application/lib64
+application/lib/* 
+application/pyvenv.cfg
+application/bin
+/data/
